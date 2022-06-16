@@ -1,0 +1,18 @@
+[
+  {
+    "package": "MCMCprecision",
+    "oncran": true
+  },
+  {
+    "package": "metaBMA",
+    "oncran": true
+  },
+  {
+    "package": "multinomineq",
+    "oncran": true
+  },
+  {
+    "package": "TreeBUGS",
+    "oncran": true
+  }
+]
