@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MCMCprecision"]
-	path = MCMCprecision
-	url = https://github.com/danheck/mcmcprecision
-	shallow = true
-	registered = true
-[submodule "metaBMA"]
-	path = metaBMA
-	url = https://github.com/danheck/metabma
-	shallow = true
-	registered = true
 [submodule "multinomineq"]
 	path = multinomineq
 	url = https://github.com/danheck/multinomineq

@@ -1,13 +1,5 @@
 [
   {
-    "package": "MCMCprecision",
-    "oncran": true
-  },
-  {
-    "package": "metaBMA",
-    "oncran": true
-  },
-  {
     "package": "multinomineq",
     "oncran": true
   },
