@@ -18,6 +18,11 @@
 	url = https://github.com/danheck/multinomineq
 	shallow = true
 	registered = true
+[submodule "RRreg"]
+	path = RRreg
+	url = https://github.com/danheck/rrreg
+	shallow = true
+	registered = true
 [submodule "TreeBUGS"]
 	path = TreeBUGS
 	url = https://github.com/danheck/treebugs

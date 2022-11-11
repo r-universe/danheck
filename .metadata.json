@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "RRreg",
+    "oncran": true
+  },
+  {
     "package": "TreeBUGS",
     "oncran": true
   }
