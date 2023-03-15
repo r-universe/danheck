@@ -8,11 +8,6 @@
 	url = https://github.com/danheck/mcmcprecision
 	shallow = true
 	registered = true
-[submodule "TreeBUGS"]
-	path = TreeBUGS
-	url = https://github.com/danheck/treebugs
-	shallow = true
-	registered = true
 [submodule "metaBMA"]
 	path = metaBMA
 	url = https://github.com/danheck/metabma
@@ -26,5 +21,10 @@
 [submodule "RRreg"]
 	path = RRreg
 	url = https://github.com/danheck/rrreg
+	shallow = true
+	registered = true
+[submodule "TreeBUGS"]
+	path = TreeBUGS
+	url = https://github.com/danheck/treebugs
 	shallow = true
 	registered = true

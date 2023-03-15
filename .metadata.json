@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "TreeBUGS",
-    "oncran": true
-  },
-  {
     "package": "metaBMA",
     "oncran": true
   },
@@ -17,6 +13,10 @@
   },
   {
     "package": "RRreg",
+    "oncran": true
+  },
+  {
+    "package": "TreeBUGS",
     "oncran": true
   }
 ]
