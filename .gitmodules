@@ -5,15 +5,15 @@
 [submodule "MCMCprecision"]
 	path = MCMCprecision
 	url = https://github.com/danheck/mcmcprecision
-[submodule "metaBMA"]
-	path = metaBMA
-	url = https://github.com/danheck/metabma
-[submodule "multinomineq"]
-	path = multinomineq
-	url = https://github.com/danheck/multinomineq
 [submodule "RRreg"]
 	path = RRreg
 	url = https://github.com/danheck/rrreg
 [submodule "TreeBUGS"]
 	path = TreeBUGS
 	url = https://github.com/danheck/treebugs
+[submodule "metaBMA"]
+	path = metaBMA
+	url = https://github.com/danheck/metabma
+[submodule "multinomineq"]
+	path = multinomineq
+	url = https://github.com/danheck/multinomineq
